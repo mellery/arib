@@ -1,3 +1,5 @@
+venv/
+
 #specific credentials file
 arib/secret_key.py
 
